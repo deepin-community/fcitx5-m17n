@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-m17n package.
+#
+# Translators:
+# Mingcong Bai <jeffbai@aosc.xyz>, 2017
+# csslayer <wengxt@gmail.com>, 2020
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-m17n\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2020-11-02 16:11-0800\n"
+"PO-Revision-Date: 2017-12-21 01:32+0000\n"
+"Last-Translator: csslayer <wengxt@gmail.com>, 2020\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/fcitx/teams/12005/"
+"zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: im/i18nname.cpp:15
+msgid "Anthy"
+msgstr "Anthy"
+
+#: im/i18nname.cpp:13
+msgid "Cangjie"
+msgstr "仓颉"
+
+#: im/i18nname.cpp:13
+msgid "Chewing Symbol"
+msgstr "注音符号"
+
+#: im/engine.h:23
+msgid "Enable Deprecated"
+msgstr "启用已废弃的输入法"
+
+#: im/i18nname.cpp:15
+msgid "Hanja"
+msgstr "汉字"
+
+#: im/i18nname.cpp:14
+msgid "Keyboard"
+msgstr "键盘"
+
+#: im/m17n.conf.in:3
+msgid "M17N"
+msgstr "M17N"
+
+#: im/m17n.conf.in:4
+msgid "M17N IM Support For Fcitx"
+msgstr "Fcitx 的 M17N 输入法支持"
+
+#: org.fcitx.fcitx5-m17n.metainfo.xml.in:8
+msgid "M17N Input method"
+msgstr "M17N 输入法"
+
+#: org.fcitx.fcitx5-m17n.metainfo.xml.in:7
+msgid "M17N for Fcitx 5"
+msgstr "Fcitx 5 的 M17N 支持"
+
+#: im/i18nname.cpp:14
+msgid "Pinyin"
+msgstr "拼音"
+
+#. remember to update "default" in the same directory.
+#: im/i18nname.cpp:13
+msgid "Pinyin Symbol"
+msgstr "拼音符号"
+
+#: im/i18nname.cpp:16
+msgid "Quick"
+msgstr "速成"
+
+#: im/i18nname.cpp:15
+msgid "Romaja"
+msgstr "罗马字"
+
+#: im/i18nname.cpp:14
+msgid "Tone Pinyin"
+msgstr "音调拼音"
+
+#: im/engine.cpp:334
+msgid "{0} (M17N)"
+msgstr "{0} (M17N)"

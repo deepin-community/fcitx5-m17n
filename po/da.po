@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the fcitx5-m17n package.
+#
+# Translators:
+# csslayer <wengxt@gmail.com>, 2017
+# scootergrisen, 2020
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx5-m17n\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2020-11-14 00:02-0800\n"
+"PO-Revision-Date: 2017-12-21 01:32+0000\n"
+"Last-Translator: scootergrisen, 2020\n"
+"Language-Team: Danish (https://www.transifex.com/fcitx/teams/12005/da/)\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: im/i18nname.cpp:15
+msgid "Anthy"
+msgstr "Anthy"
+
+#: im/i18nname.cpp:13
+msgid "Cangjie"
+msgstr "Cangjie"
+
+#: im/i18nname.cpp:13
+msgid "Chewing Symbol"
+msgstr "Chewing-symbol"
+
+#: im/engine.h:23
+msgid "Enable Deprecated"
+msgstr "Aktivér udgået"
+
+#: im/i18nname.cpp:15
+msgid "Hanja"
+msgstr "Hanja"
+
+#: im/i18nname.cpp:14
+msgid "Keyboard"
+msgstr "Tastatur"
+
+#: im/m17n.conf.in:3
+msgid "M17N"
+msgstr "M17N"
+
+#: im/m17n.conf.in:4
+msgid "M17N IM Support For Fcitx"
+msgstr "M17N IM-understøttelse til Fcitx"
+
+#: org.fcitx.fcitx5-m17n.metainfo.xml.in:8
+msgid "M17N Input method"
+msgstr "M17N-inputmetode"
+
+#: org.fcitx.fcitx5-m17n.metainfo.xml.in:7
+msgid "M17N for Fcitx 5"
+msgstr "M17N til Fcitx 5"
+
+#: im/i18nname.cpp:14
+msgid "Pinyin"
+msgstr "Pinyin"
+
+#. remember to update "default" in the same directory.
+#: im/i18nname.cpp:13
+msgid "Pinyin Symbol"
+msgstr "Pinyin-symbol"
+
+#: im/i18nname.cpp:16
+msgid "Quick"
+msgstr "Hurtig"
+
+#: im/i18nname.cpp:15
+msgid "Romaja"
+msgstr "Romaja"
+
+#: im/i18nname.cpp:14
+msgid "Tone Pinyin"
+msgstr "Tone pinyin"
+
+#: im/engine.cpp:334
+msgid "{0} (M17N)"
+msgstr "{0} (M17N)"
